@@ -85,4 +85,6 @@ const cat = new Cat('Fluffy');
 makeSound(dog3);
 makeSound(cat);
 
+
+
 // console.log(dog3 instanceof Animal3);
